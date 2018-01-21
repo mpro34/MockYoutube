@@ -1,13 +1,6 @@
-# ReduxSimpleStarter
+# MockYoutube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+React Application utilizing the Youtube API to create a simple Youtube-Like interface.
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
